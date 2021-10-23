@@ -6,4 +6,7 @@ function devolverResultado (x,y)
     var result = resultado + 100;
     return result;
 }
+x=10;
+y=20;
+devolverResultado (x,y);
 //Resultado a mostar en pantalla
