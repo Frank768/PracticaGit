@@ -4,7 +4,7 @@ function devolverResultado (x,y)
 {
     var resultado = x+y;
     var result = resultado + (100/50);
-    console.log ("imprimir :"+result);
+    console.log ("imprimir desde master :"+result);
     return result;
 }
 x=10;
