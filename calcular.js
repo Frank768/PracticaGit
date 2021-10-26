@@ -10,5 +10,5 @@ function devolverResultado (x,y)
 x=10;
 y=20;
 devolverResultado (x,y);
-console.log ("fin del codigo, en espera de neuva instrucción");
+alert ("fin del codigo, en espera de neuva instrucción");
 //Resultado a mostar en pantalla
