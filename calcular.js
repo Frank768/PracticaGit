@@ -1,4 +1,4 @@
-//Operación de dos operandos
+//Operación de dos operandos usando clave pública
 var x,y=0;
 function devolverResultado (x,y)
 {
