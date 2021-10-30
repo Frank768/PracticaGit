@@ -1,5 +1,5 @@
 //Operación de dos operandos usando clave pública
-// Comienza modificando linea JuanchoArce
+// Comienza modificando linea JuanchoArce (se inicia con su email)
 var x,y=0;
 function devolverResultado (x,y)
 {
