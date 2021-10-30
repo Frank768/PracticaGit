@@ -1,4 +1,5 @@
 //Operación de dos operandos usando clave pública
+// Comienza modificando linea JuanchoArce
 var x,y=0;
 function devolverResultado (x,y)
 {
