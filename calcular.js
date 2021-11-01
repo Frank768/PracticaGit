@@ -1,5 +1,6 @@
 //Operación de dos operandos usando clave pública
 //Se mejora modificación al header
+//Se agrega color a fondo, nuevo logo 
 var x,y=0;
 function devolverResultado (x,y)
 {
