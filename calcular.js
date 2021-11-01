@@ -1,5 +1,5 @@
 //Operación de dos operandos usando clave pública
-//Se agrega una modificación al header
+//Se mejora modificación al header
 var x,y=0;
 function devolverResultado (x,y)
 {
