@@ -14,3 +14,4 @@ y=20;
 devolverResultado (x,y);
 alert ("fin del codigo, en espera de neuva instrucción");
 //Resultado a mostar en pantalla
+//Se agrega comentario al footer
