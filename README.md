@@ -6,3 +6,4 @@ Luego se realiza un merge desde la rama maestro
 **En GitHub se renombra la rama "Main" **por el nombre de "master"
 
 Creado por Francisco Salcedo
+Inlcuye ejemplos en windoews, linux y Mac
